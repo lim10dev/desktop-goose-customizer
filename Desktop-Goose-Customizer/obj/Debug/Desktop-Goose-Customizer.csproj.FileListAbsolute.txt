@@ -1,0 +1,11 @@
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\bin\Debug\Desktop-Goose-Customizer.exe.config
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\bin\Debug\Desktop-Goose-Customizer.exe
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\bin\Debug\Desktop-Goose-Customizer.pdb
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\obj\Debug\Desktop-Goose-Customizer.csprojAssemblyReference.cache
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\obj\Debug\Desktop_Goose_Customizer.Properties.Resources.resources
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\obj\Debug\Desktop-Goose-Customizer.csproj.GenerateResource.cache
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\obj\Debug\Desktop-Goose-Customizer.csproj.CoreCompileInputs.cache
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\obj\Debug\Desktop-Goose-Customizer.exe
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\obj\Debug\Desktop-Goose-Customizer.pdb
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\obj\Debug\Desktop_Goose_Customizer.dgc.resources
+C:\Users\ahmet\source\repos\Desktop Goose Customizer\Desktop-Goose-Customizer\obj\Debug\Desktop_Goose_Customizer.ManageSlots.resources
