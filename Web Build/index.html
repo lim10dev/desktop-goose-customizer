@@ -1,0 +1,49 @@
+<html>
+    <!--
+        Desktop Goose Customizer by lim10dev.
+        github.com/lim10dev
+        lim10dev.itch.io
+        
+        Spaghetti right here:
+    -->
+    <head>
+        <title>Desktop Goose Customizer</title>
+        <link rel="stylesheet" href="main.css">
+        <link rel="icon" href="gooseico.ico">
+    </head>
+    <body>
+        <span id="Settings">
+            <input type="checkbox" id="EnableMods"> <label for="EnableMods" title="If checked, downloaded mods can be used.">Enable Mods</label> <br>
+            <input type="checkbox" id="SilenceSounds"> <label for="SilenceSounds" title="If checked, there won't be any sounds">Silence Sound (mute goose)</label> <br>
+            <input type="checkbox" id="Task_CanAttackMouse"> <label for="Task_CanAttackMouse" title="If checked, Goose can attack your mouse.">Goose Can Attack Mouse</label> <br>
+            <input type="checkbox" id="AttackRandomly"> <label for="AttackRandomly" title="If checked, Goose can attack randomly.">Attack Randomly</label> <br>
+            <input type="checkbox" id="UseCustomColors"> <label for="UseCustomColors" title="If checked, Goose's colors will be the colors you chose.">Use Custom Colors</label> <br><br>
+            <div id="CustomColor">
+                <input type="color" id="GooseDefaultWhite" value="#ffffff"> 
+                <label for="GooseDefaultWhite"> Set Goose's Body Color</label> <br>
+                <input type="color" id="GooseDefaultOrange" value="#ffa500">
+                <label for="GooseDefaultOrange"> Set Goose's Beak Color</label> <br>
+                <input type="color" id="GooseDefaultOutline" value="#d3d3d3"> 
+                <label for="GooseDefaultOutline">Goose's Outline Color</label> 
+            </div> <br>
+            <input type="number" id="MinWanderingTimeSeconds" value="20" max="999999"> 
+            <label for="MinWanderingTimeSeconds">Minimum Wandering Time Seconds</label><br>
+            <input type="number" id="MaxWanderingTimeSeconds" value="40" max="999999">
+            <label for="MaxWanderingTimeSeconds">Maximum Wandering Time Seconds</label><br>
+            <input type="number" id="FirstWanderTimeSeconds" value="20" max="999999"> 
+            <label for="FirstWanderTimeSeconds">First Wandering Time Seconds</label><br> <br>
+            <button id="apply">Apply settings</button>
+        </span>
+        <span id="config-ini">
+            <textarea id="config-text" aria-multiline="true" spellcheck="false" readonly=true>
+
+            </textarea> <br>
+            <button id="copy">Copy text</button> <br><br>
+            <button id="download">Download</button>
+        </span>
+        <footer>
+            Desktop Goose by SamPerson. Desktop Goose Customizer by lim10dev.
+        </footer>
+    </body>
+    <script src="main.js"></script>
+</html>

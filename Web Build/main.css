@@ -1,0 +1,73 @@
+@font-face{
+    src: url("Abel-Regular.ttf");
+    font-family: abel;
+}
+html{
+    font-family: abel;
+    color: #f5deb3;
+    background-color: #2f4f4f;
+    user-select: none;
+    -moz-user-select: -moz-none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+}
+button{
+    background-color: #f0f8ff;
+    font-family: abel;
+    font-weight: bold;
+    border: #a9a9a9;
+    border-width: 20px;
+    border-radius: 10%;
+}
+#apply{
+    height: 40px;
+}
+button:hover, input:hover, label:hover, button:focus, input:focus, label:focus{
+    background-color: #ffffff;
+    cursor: pointer;
+    color: black;
+}
+#button:target{
+    background-color: #f0f8ff;
+}
+input, textarea{
+    -moz-user-select: -moz-all;
+    -webkit-user-select: all;
+    -ms-user-select: all;
+    background-color: black;
+    color: white;
+}
+
+#CustomColor, #config-ini{
+    background-color: rgb(71, 109, 109);
+    border-radius: 5%;
+}
+#settings{
+    float: left;
+}
+#config-ini{
+    float: right;
+}
+#config-text{
+    width: 250px;
+    height: 190px;
+    max-width: 250px;
+    max-height: 190px;
+    min-width: 250px;
+    min-height: 190px;
+}
+#copy, #download {
+    margin-left: 35%;
+    margin-right: 35%;
+}
+#MaxWanderingTimeSeconds, #MinWanderingTimeSeconds, #FirstWanderTimeSeconds{
+    width: 70px;
+}
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    font-size: 10px;
+    text-align: center;
+}
